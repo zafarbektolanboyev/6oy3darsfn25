@@ -1,0 +1,10 @@
+.media{
+    display: flex;
+    font-size: 40px;
+    align-items: center;
+    justify-content: center;
+}
+.media h5{
+    cursor: pointer;
+    margin-top: 40px;
+}

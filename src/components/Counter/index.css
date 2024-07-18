@@ -1,0 +1,10 @@
+.btns{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    text-align: center;
+}
+.counter{
+    margin-top: 50px;
+}

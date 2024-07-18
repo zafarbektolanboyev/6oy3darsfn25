@@ -1,0 +1,21 @@
+.Bars{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+}
+.Bar{
+    width: 200px;
+    height: 20px;
+    background-color: gray;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.bar-span{
+    background-color: blue;
+    width: 198px;
+    height: 1px;
+    border-radius:5px;
+    padding-left: 200px;
+}

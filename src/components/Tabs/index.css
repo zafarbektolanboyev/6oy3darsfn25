@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+button{
+    width: 150px;
+    padding: 12px;
+    background-color: rgb(72, 245, 72);
+    color: white;
+    opacity: 0.7;
+    border: none;
+    border-radius: 5px;
+    transition: all 0.5s;
+    margin-top: 50px;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.Buttons{
+    gap: 20px;
+}
+ul{
+    margin-top: 20px;
+}
+ul li{
+    margin-left: 438px;
+    list-style: none;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 493px;
+    border: 1px solid greenyellow;
+    color:greenyellow;
+    border-radius: 5px;
+    padding: 10px;
+    opacity: 0.9;
+}
+ul li:hover{
+    background-color: greenyellow;
+    color: white;
+}
